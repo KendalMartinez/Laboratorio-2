@@ -165,3 +165,16 @@ git push origin login
 3. Revisar cambios
 4. Hacer merge
 
+## Anexos
+<img width="1123" height="719" alt="1" src="https://github.com/user-attachments/assets/e2bc26c8-9c1b-4b03-b210-fb7fbfb8bb77" />
+
+<img width="1093" height="725" alt="2" src="https://github.com/user-attachments/assets/44624ad2-798e-4693-b0f0-257519238a7b" />
+
+<img width="748" height="400" alt="3" src="https://github.com/user-attachments/assets/e0235696-acfb-40e8-b6f1-b956fa5960a1" />
+
+<img width="821" height="412" alt="4" src="https://github.com/user-attachments/assets/38fc4852-a1ad-4d36-8b41-4f1a50eb17d9" />
+
+<img width="801" height="400" alt="5" src="https://github.com/user-attachments/assets/4b1e8f3e-ed00-4b97-87aa-9f72f11d857a" />
+
+
+
